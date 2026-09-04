@@ -1,0 +1,13 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "spring-boot.ls.java.vmargs": "-Xmx1024m",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
+}
